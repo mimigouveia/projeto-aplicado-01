@@ -1,0 +1,11 @@
+Semana;Etapa;Objetivo;Aplicacao ;;;;;
+1;Planejamento e definicao do problema;Escolher o tema, definir escopo e objetivos;"Reuniao com o grupo; levantamento preliminar de dados.";;;;;
+2;Coleta de dados;Obter informacoes relevantes;Leitura de artigos, pesquisas ;;;;;
+3;Organizacao dos dados;Estruturar os dados coletados;Criar planilhas no Excel/Google Sheets, padronizar informacoes e limpar inconsistancias.;;;;;
+4;Analise exploratoria;Identificar padroes e problemas;Utilizar graficos no Power BI, Python e Excel para visualizar desempenho, frequencia e engajamento.;;;;;
+5;Identificacao de fatores criticos;Descobrir principais causas de baixo desempenho;Correlacionar dados (ex.: frequencia vs. notas).;;;;;
+6;Proposta de acoes de melhoria;Desenvolver estrategias para corrigir problemas;Ex.: reforco escolar, oficinas de estudo, treinamentos para professores.;;;;;
+7;Planejamento da intervencao;Detalhar cronograma de acoes;Definir responsaveis, cronograma e recursos necessarios.;;;;;
+8;Implementacao piloto;Aplicar acoes em uma turma ou segmento;Testar estrategias em pequena escala para medir impacto.;;;;;
+9;Avaliacao dos resultados;Medir eficacia das acoes;Comparar desempenho pre e pos-intervencao, coletar feedback.;;;;;
+10;Relatorio final e apresentacao;Documentar e apresentar resultados;Criar relatorio com graficos, conclusoes e recomendacoes para expansao.;;;;;
