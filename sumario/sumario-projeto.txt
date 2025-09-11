@@ -1,0 +1,8 @@
+Objetivo e Meta do Projeto; Pagina 3
+Contexto do Estudo; Pagina 3
+Por que os dados sao importantes para as escolas?; Pagina 4
+Pensamento Computacional e Uso dos Dados do INEP; Pagina 4
+Descricao do Dataset; Pagina 5
+Referencias de Aquisicao do Dataset; Pagina 5
+Cronograma; Pagina 6
+Link do Repositorio do Github; Pagina 7
