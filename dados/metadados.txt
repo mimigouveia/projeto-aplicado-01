@@ -1,0 +1,44 @@
+Temos dois tipos de arquivos:
+- CSV
+- XLSX
+
+Origem: 
+Aberto (INEP)
+
+Sensibilidade: 
+São dados públicos
+
+Validade: 
+Gerado 11 de Outubro de 2025.
+Censo Escolar da Educação Básica de 2022
+
+Proprietário do dado:
+-
+
+Descrição: 
+Utilizamos a mesma e adicionamos:
+
+NOTAS:
+Matrícula -
+Não inclui matrículas de turmas exclusivas de Atividade Complementar e/ou Atendimento Educacional Especializado (AEE).
+O mesmo aluno pode ter mais de uma matrícula.
+Dependência Administrativa –
+É o âmbito de subordinação administrativa da escola que contempla as seguintes esferas de ensino: Federal, Estadual, Municipal e Privada.
+Educação Básica-
+Primeiro nível da Educação Escolar regular que compreende a Educação Infantil, o Ensino Fundamental e o Ensino Médio, e tem por finalidade desenvolver o educando, assegurar-lhe a formação comum indispensável para o exercício da cidadania e fornecer-lhe meios para progredir no trabalho e em estudos posteriores; a Educação Básica pode organizar-se em séries anuais, períodos semestrais, ciclos, alternância regular de períodos de estudos, grupos não seriados, tendo por base a idade, a competência e outros critérios, ou de forma diversa, sempre que o interesse do processo de aprendizagem assim o recomendar.
+Localização- 
+É a demarcação definida pelo Instituto Brasileiro de Geografia e Estatística (IBGE) para a classificação dos espaços rurais e urbanos. Há duas opções: zona urbana (áreas correspondentes às cidades, às vilas ou às áreas urbanas isoladas) ou zona rural (abrange toda a área situada fora dos limites da zona urbana).
+Dependência Administrativa-
+É o âmbito de subordinação administrativa da escola que contempla as seguintes esferas de ensino: Federal, Estadual, Municipal e Privada.
+Categoria da Escola Privada- 
+É a subdivisão administrativa da escola privada que contempla as seguintes categorias: Particular, Comunitária, Confessional e Filantrópica.
+Mediação Didático-Pedagógico-
+Compreende os tipos de relações e interações realizadas no processo de ensino aprendizagem, estimuladas ou não pelo professor.
+Tempo Integral/Parcial-
+Considera-se em tempo integral, o tempo de permanência semanal do aluno na turma de escolarização presencial (minutos/semana) maior ou igual a 35 horas semanais, e os que estão em turmas de escolarização presenciais com carga horária menor que 35 horas semanais, mas que somado ao tempo de permanência semanal em turmas de atividade complementar (mesma rede ou outra rede), de atendimento educacional especializado (mesma rede ou outra rede) e em turmas exclusivas de itinerário formativo (mesma rede ou outra rede), atinja as 35 horas ou mais. A modalidade de tempo parcial se caracteriza pela carga horária semanal do aluno, que abrange as aulas regulares, atividades complementares, atendimento especializado e itinerários formativos, sendo inferior a 35 horas (menor que sete horas diárias). Essa carga horária difere do tempo integral, no qual a dedicação semanal do estudante ultrapassa esse limite estabelecido.
+Escola Privada Conveniada com o Poder Público-
+Acordo celebrado entre o poder público (secretaria estadual e/ou municipal) e entidades privadas sem fins lucrativos, mediante mútua colaboração, com vistas a descentralizar a execução de programa ou projeto na área educacional, com duração definida. O instrumento pode compreender convênio, acordo de cooperação técnica, repasse de recursos, prestação de serviços, entre outros instrumentos congêneres para manutenção e desenvolvimento de ensino, conforme Art. 70 e 71 da lei 9.394/1996.
+Cor/Raça-
+As opções de preenchimento são as mesmas estabelecidas pelo IBGE: Branca, Preta, Parda, Amarela, Indígena, Não declarada.
+Faixa Etária-
+Faixa etária é calculada considerando a idade do aluno na data de referência do Censo Escolar da Educação Básica (última quarta-feira do mês de maio).
