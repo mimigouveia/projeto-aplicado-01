@@ -8,4 +8,4 @@ Cronograma; Pagina 6
 Link do Repositorio do Github; Pagina 7
 Metadados; Pagina 7
 Analise Exploratória de Dados; Pagina 9
-Glossario; Pagina 26
+Glossario; Pagina 27
