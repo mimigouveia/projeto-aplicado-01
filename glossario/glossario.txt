@@ -1,0 +1,12 @@
+Completude: Indica a propriedade de um sistema totalmente demonstrável.
+Coorte: Grupo de pessoas com características ou experiências em comum.
+Correlação Multivariada: Análise estatística de como variáveis se relacionam e interagem simultaneamente.
+Dados longitudinais: São informações coletadas repetidamente sobre os mesmos sujeitos ao longo de tempo para analisar mudanças e tendências.
+Dataset: Coleção organizada de dados relacionados, normalmente armazenados em planilhas ou arquivos de texto.
+Georreferenciamento: Processo de definição de área no globo terrestre, utilizando coordenadas geográficas.
+INEP: Instituto Nacional de Estudos e Pesquisas Educacionais  Anísio Teixeira – responsável por produzir e avaliar dados sobre a educação no Brasil.
+Insight: Conhecimento extraído de um grande volume de dados.
+Mediação Didático-Pedagógica: É o papel do professor como intermediário ativo, que transforma o conteúdo em algo acessível e compreensível, ajudando o aluno a aprender de forma mais efetiva.
+Outlier: Valor atípico em um conjunto de dados.
+Pensamento Computacional: É um conjunto de habilidades cognitivas (decomposição, padrões, abstração, e algoritmos) para resolver problemas de forma estruturada.
+SAEB: Sistema de Avaliação da Educação Básica – Processo de avaliações aplicadas pelo INEP para medir a qualidade da educação no Brasil.
