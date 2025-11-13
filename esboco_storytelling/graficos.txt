@@ -1,0 +1,8 @@
+Gráfico 1: Total de matrículas por região
+Gráfico 2: Total de matrículas por categoria administrativa
+Gráfico 3: Total de matrículas por região (escolas privadas)
+Gráfico 4: Total de matrículas por cor/raça
+Gráfico 5: Total de matrículas por faixa etária
+Gráfico 6: Total de matrículas por localização
+Gráfico 7: Total de matrículas por tempo integral parcial
+Gráfico 8: Matrículas por região e localização
